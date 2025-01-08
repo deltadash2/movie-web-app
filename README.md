@@ -1,3 +1,3 @@
-# movie-web-app
+# movie-web-app-server
 
-This is a simple assignment for React / Next.js Full Stack Development.
+Node.js Backend server for a simple assignment for Full Stack Development.
